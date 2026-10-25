@@ -37,6 +37,7 @@ Telefone
 E-mail
 Endereço
 
+![Print do projeto](images/dados.png)
 ✅ Rendimentos
 
 Registro dos ganhos do contribuinte.
@@ -55,6 +56,8 @@ Pensão Recebida
 Rendimentos Autônomos
 Investimentos
 Rendimentos de Aplicações Financeiras
+
+![Print do projeto](images/rendimentos.png)
 ✅ Despesas Dedutíveis
 
 Registro das despesas que reduzem a base de cálculo.
@@ -71,6 +74,8 @@ Meses Pagos
 Previdência
 Previdência Privada
 Tempo de Contribuição
+
+![Print do projeto](images/despesas.png)
 ✅ Resumo do IR
 
 Área responsável pelos cálculos automáticos.
@@ -84,6 +89,8 @@ Imposto Estimado
 IR Retido na Fonte
 Restituição Estimada
 Imposto a Pagar
+
+![Print do projeto](images/resumo.png)
 ✅ Relatório Final
 
 Painel consolidado com os valores calculados nas demais planilhas.
@@ -102,6 +109,8 @@ Resultado
 Base de Cálculo
 Imposto Estimado
 Restituição Estimada
+
+![Print do projeto](images/relatorio.png)
 🧮 Fórmulas Utilizadas
 Salário Anual
 =SalarioMensal*MesesTrabalhados
