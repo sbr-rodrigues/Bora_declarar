@@ -1,7 +1,4 @@
-# Bora_declarar
-Claro, amor! 💙 Vou te deixar um README com cara de projeto profissional para colocar no GitHub e entregar junto com o desafio da DIO.
-
-📊 Simulador de Imposto de Renda no Excel
+# Bora_declarar📊 Simulador de Imposto de Renda no Excel
 📖 Descrição
 
 Este projeto foi desenvolvido como desafio prático da DIO (Digital Innovation One) com o objetivo de construir um Simulador de Imposto de Renda utilizando Microsoft Excel.
